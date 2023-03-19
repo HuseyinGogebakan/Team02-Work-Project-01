@@ -2,7 +2,8 @@ package WorkProject01;
 
 import java.util.Scanner;
 
-public age {
+public class age {
+
 
      /*
         Given a int ,
@@ -24,31 +25,31 @@ public age {
         Note: use if else statement.
      */
 
-/*
+    /*
 
 
-           Eğer age 10 dan küçük veya eşit ise
-           facebook hesabi acmak icin cok gencsin print edin.
+               Eğer age 10 dan küçük veya eşit ise
+               facebook hesabi acmak icin cok gencsin print edin.
 
-           Eğer age 16 dan küçük veya eşit ise
-           ehliyet almak icin cok gencsin print edin.
+               Eğer age 16 dan küçük veya eşit ise
+               ehliyet almak icin cok gencsin print edin.
 
-           Eğer age 18 den küçük veya eşit ise
-           dovme yaptirmak icin cok gencsin print edin.
+               Eğer age 18 den küçük veya eşit ise
+               dovme yaptirmak icin cok gencsin print edin.
 
-           Eğer age 21 den küçük veya eşit ise
-           alkol icmek icin cok gencsin print edin.
+               Eğer age 21 den küçük veya eşit ise
+               alkol icmek icin cok gencsin print edin.
 
-           Eğer age 21 den büyük ise
-           istedigini yapabilirsin print edin.
- */
+               Eğer age 21 den büyük ise
+               istedigini yapabilirsin print edin.
+     */
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
 
         int myAge = scanner.nextInt();
 
-       //  code Start here don't change before this line
+        //  code Start here don't change before this line
 
         //  bu satirdan onceki kodlari degistirmeyiniz
 
@@ -57,3 +58,5 @@ public age {
 
     }
 }
+
+
