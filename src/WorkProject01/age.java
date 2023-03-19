@@ -2,7 +2,7 @@ package WorkProject01;
 
 import java.util.Scanner;
 
-public class age {
+public age {
 
      /*
         Given a int ,
